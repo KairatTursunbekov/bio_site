@@ -1,0 +1,71 @@
+body{
+    background-image: url(./marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.main {
+    display: flex;
+    align-items: flex-end;
+    margin-left: 30px;
+    transition: 1s;
+    flex-direction: column;
+}
+.main:hover {
+    transform: scale(1.05);
+    transition: 1s;
+}
+.title {
+    width: 300px;
+    height: 350px;
+    border: 5px solid red;
+    background-image: url(https://thumbs.gfycat.com/AcclaimedHeartfeltGoat-size_restricted.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.second {
+    width: 300px;
+    height: 350px;
+    border: 5px solid red;
+    background-image: url(https://i.pinimg.com/originals/dc/c9/ce/dcc9cea8525b59b91d1a6ed0e27fff59.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.third {
+    width: 300px;
+    height: 350px;
+    border: 5px solid red;
+    background-image: url(https://i.gifer.com/Yzg5.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.fourth {
+    width: 300px;
+    height: 350px;
+    border: 5px solid red;
+    background-image: url(https://assets.materialup.com/uploads/596272e3-ecc2-417f-b351-80e5ae1291e1/preview.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.fifth {
+    width: 300px;
+    height: 350px;
+    border: 5px solid red;
+    background-image: url(https://thumbs.gfycat.com/GrippingLonelyArawana-max-1mb.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
